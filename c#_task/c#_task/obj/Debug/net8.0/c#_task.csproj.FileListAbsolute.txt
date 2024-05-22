@@ -1,0 +1,14 @@
+C:\Users\Yusif\Desktop\c#_task\c#_task\bin\Debug\net8.0\c#_task.exe
+C:\Users\Yusif\Desktop\c#_task\c#_task\bin\Debug\net8.0\c#_task.deps.json
+C:\Users\Yusif\Desktop\c#_task\c#_task\bin\Debug\net8.0\c#_task.runtimeconfig.json
+C:\Users\Yusif\Desktop\c#_task\c#_task\bin\Debug\net8.0\c#_task.dll
+C:\Users\Yusif\Desktop\c#_task\c#_task\bin\Debug\net8.0\c#_task.pdb
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\c#_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\c#_task.AssemblyInfoInputs.cache
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\c#_task.AssemblyInfo.cs
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\c#_task.csproj.CoreCompileInputs.cache
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\c#_task.dll
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\refint\c#_task.dll
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\c#_task.pdb
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\c#_task.genruntimeconfig.cache
+C:\Users\Yusif\Desktop\c#_task\c#_task\obj\Debug\net8.0\ref\c#_task.dll
