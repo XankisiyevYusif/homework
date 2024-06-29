@@ -1,0 +1,14 @@
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\bin\Debug\net8.0\water_task.exe
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\bin\Debug\net8.0\water_task.deps.json
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\bin\Debug\net8.0\water_task.runtimeconfig.json
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\bin\Debug\net8.0\water_task.dll
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\bin\Debug\net8.0\water_task.pdb
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\water_task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\water_task.AssemblyInfoInputs.cache
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\water_task.AssemblyInfo.cs
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\water_task.csproj.CoreCompileInputs.cache
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\water_task.dll
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\refint\water_task.dll
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\water_task.pdb
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\water_task.genruntimeconfig.cache
+C:\Users\Yusif\Desktop\c# tasks\water_task\water_task\obj\Debug\net8.0\ref\water_task.dll
