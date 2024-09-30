@@ -1,0 +1,17 @@
+C:\Users\Yusif\Desktop\home_work\home_work\bin\Debug\net8.0\home_work.exe
+C:\Users\Yusif\Desktop\home_work\home_work\bin\Debug\net8.0\home_work.deps.json
+C:\Users\Yusif\Desktop\home_work\home_work\bin\Debug\net8.0\home_work.runtimeconfig.json
+C:\Users\Yusif\Desktop\home_work\home_work\bin\Debug\net8.0\home_work.dll
+C:\Users\Yusif\Desktop\home_work\home_work\bin\Debug\net8.0\home_work.pdb
+C:\Users\Yusif\Desktop\home_work\home_work\bin\Debug\net8.0\Bogus.dll
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.csproj.AssemblyReference.cache
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.AssemblyInfoInputs.cache
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.AssemblyInfo.cs
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.csproj.CoreCompileInputs.cache
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.csproj.Up2Date
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.dll
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\refint\home_work.dll
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.pdb
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\home_work.genruntimeconfig.cache
+C:\Users\Yusif\Desktop\home_work\home_work\obj\Debug\net8.0\ref\home_work.dll
