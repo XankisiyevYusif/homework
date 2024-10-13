@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "gMPOSQ0I29o=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Yusif\\Desktop\\ScreenShot\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Yusif\\.nuget\\packages\\microsoft.win32.systemevents\\8.0.0\\microsoft.win32.systemevents.8.0.0.nupkg.sha512",
+    "C:\\Users\\Yusif\\.nuget\\packages\\system.drawing.common\\8.0.10\\system.drawing.common.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
